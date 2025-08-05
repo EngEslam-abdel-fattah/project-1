@@ -29,11 +29,11 @@ body{
 }
 
 .home-header{
-  background-color: rgb(165, 42, 42, 0.5);
+  background-color: rgb(165, 42, 42,);
   height: 50px;
   width: 100%;
   position: fixed;
-  z-index: 50px;
+  z-index: 100px;
 
 }
 
